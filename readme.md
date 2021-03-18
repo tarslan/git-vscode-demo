@@ -1,3 +1,3 @@
 # Git Setup
-
-# Second message
+ - Second message
+ - updated on github
